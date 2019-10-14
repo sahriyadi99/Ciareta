@@ -6,7 +6,7 @@
 <body>
 	<pre>
 	Nama 	: SAHRIYADI MAULANA
-	Alamat	: France
+	Alamat	: Francis
 	No. Hp	: 14045
 	
 
