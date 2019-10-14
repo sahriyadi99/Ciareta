@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Forms</h2>
+	<tables>
+    <tr></td>Nama</tr><td></td><input type="text" name="Nama">
+    <tr><td>Alamat</td><td>
+
+
+<form action="/action_page.php">
+  Nama:<br>
+  <input type="text" name="Nama" value="Sahri">
+  <br>
+  Alamat:<br>
+  <input type="text" name="Alamat" value="France">
+  No Hp:<br>
+  <input type="text" name="No Hp" value="14045">
+  <br><br>
+  <input type="simpan" value="simpan">
+</form> 
+<br><br>
+  <input type="batal" value="batal">
+</form> 
+	<tables>
+</body>
+</html>
